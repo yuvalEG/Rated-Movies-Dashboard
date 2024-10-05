@@ -1,4 +1,4 @@
-# RatedMoviesDashboard
+# Rated Movies Dashboard
 ## Going to the cinema? Explore top movie picks with this dashboard.
 
 A Dashboard visualizes movie ratings using Pandas and Plotly.
